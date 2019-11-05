@@ -1,0 +1,6 @@
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\bin\Debug\BitRepresentation.exe.config
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\bin\Debug\BitRepresentation.exe
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\bin\Debug\BitRepresentation.pdb
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\obj\Debug\BitRepresentation.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\obj\Debug\BitRepresentation.exe
+C:\AnyThingElse\PB VS C#\BitRepresentation\BitRepresentation\obj\Debug\BitRepresentation.pdb
